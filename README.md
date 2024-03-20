@@ -5,24 +5,24 @@
 
 <!-- Badges -->
 <div align="center">
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/frylo0">
     <img src="https://img.shields.io/github/followers/yourusername?label=Followers&style=social" alt="GitHub followers">
   </a>
-  <a href="https://github.com/yourusername">
+  <a href="https://github.com/frylo0">
     <img src="https://img.shields.io/github/stars/yourusername?label=Stars&style=social" alt="GitHub stars">
   </a>
 </div>
 
 <!-- GitHub Stats -->
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&theme=blue" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api?username=frylo0&show_icons=true&theme=blue" alt="GitHub Stats">
 </div>
 
 <!-- Interactive GitHub Contribution Graph -->
 <div align="center">
-  <img src="https://github.com/yourusername" alt="GitHub Contribution Graph" usemap="#github-map">
+  <img src="https://github.com/frylo0" alt="GitHub Contribution Graph" usemap="#github-map">
   <map name="github-map">
-    <area shape="rect" coords="0,0,50,50" href="https://github.com/yourusername" alt="January" title="January">
+    <area shape="rect" coords="0,0,50,50" href="https://github.com/frylo0" alt="January" title="January">
     <!-- Add more areas for each month -->
   </map>
 </div>
