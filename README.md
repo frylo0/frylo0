@@ -6,9 +6,11 @@
 <a href="frylo.org">
   
 
+<!-- https://readme-typing-svg.demolab.com/demo/ -->
+
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+there+I%27m+Frylo+%F0%9F%91%8B;Nice+to+meet+you%21;I%27m+Frontend+Developer&center=true&size=30&color=5a3f43">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+there+I%27m+Frylo+%F0%9F%91%8B;Nice+to+meet+you%21;I%27m+Frontend+Developer&center=true&size=30&color=457ebf&pause=700">
     </a>
 </h1>
 
@@ -103,7 +105,7 @@
 </p>
 
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=frylo0&theme=xcode&point=5a3f43&line=5a3f43&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=frylo0&theme=xcode&point=457ebf&line=457ebf&hide_border=true&area=true" width="100%" />
 <hr>
 
 <br>

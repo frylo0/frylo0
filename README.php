@@ -15,7 +15,7 @@ $theme = 'prussian';
 $login = 'frylo0';
 $email = 'frylo.d.ts@gmail.com';
 $website = 'frylo.org';
-$accent_color = '5a3f43';
+$accent_color = '457ebf';
 
 ?>
 
