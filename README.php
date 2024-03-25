@@ -30,6 +30,8 @@ $accent_color = '457ebf';
 </a>
 
 <br>
+<br>
+<br>
 
 <p align="center">
   <h3 align="center">
