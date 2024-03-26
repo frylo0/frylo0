@@ -6,7 +6,7 @@
         $img = "https://github-readme-stats.vercel.app/api/pin/" . 
             "?username=$username&repo=$repo_name" . 
             //"&theme=$theme" . 
-            "&bg_color={$accent_color}20&title_color=$accent_color&text_color={$accent_color}a0&icon_color={$accent_color}c0&border_color=$accent_color" . 
+            "&bg_color={$accent_color}40&title_color=$accent_color&text_color=ffffff&icon_color={$accent_color}c0&border_color=$accent_color" . 
             "&hide_border=false&show_icons=true"; 
         ?>
 
