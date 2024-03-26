@@ -184,12 +184,12 @@ $accent_color = '457ebf';
 
 <p align="center">
 
-  <?php repo($login, 'frylo.org') ?>
-  <?php repo($login, 'pftp') ?>
-  <?php repo($login, 'ts-package-starter') ?>
-  <?php repo($login, 'nextjs-modern-starter-2024') ?>
-  <?php repo($login, 'dtl') ?>
-  <?php repo($login, 'jquery-reactive') ?>
+  <?php repo($login, 'frylo.org', $accent_color) ?>
+  <?php repo($login, 'pftp', $accent_color) ?>
+  <?php repo($login, 'ts-package-starter', $accent_color) ?>
+  <?php repo($login, 'nextjs-modern-starter-2024', $accent_color) ?>
+  <?php repo($login, 'dtl', $accent_color) ?>
+  <?php repo($login, 'jquery-reactive', $accent_color) ?>
 </p>
 
 <h4 align="center">
