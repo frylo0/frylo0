@@ -82,7 +82,7 @@ $secondary_color = '';
 
 <?php spacing() ?>
 
-<h2 align="center">🔥 Techs n Tools 🔥</h2>
+<h2 align="center">Techs / Tools 🔥</h2>
 
 <?php start_minimize() ?>
 <p align="center">
