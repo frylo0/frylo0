@@ -20,7 +20,7 @@
         "&count_private=true&hide=issues,contribs" . 
         "&show_icons=true&hide_border=true" . 
         "&theme=$theme" . 
-        "&bg_color=00000000&title_color=$accent_color&text_color=999999";
+        "&bg_color=00000000&title_color=$accent_color&text_color=999999&icon_color={$accent_color}c0";
 
     $widget_b = "https://github-readme-stats.vercel.app/api/top-langs/" . 
         "?username=$username" . 

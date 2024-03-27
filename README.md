@@ -105,7 +105,7 @@
 
 
 <p align="center">
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=frylo0&count_private=true&hide=issues,contribs&show_icons=true&hide_border=true&theme=prussian&bg_color=00000000&title_color=1283c3&text_color=999999" />
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=frylo0&count_private=true&hide=issues,contribs&show_icons=true&hide_border=true&theme=prussian&bg_color=00000000&title_color=1283c3&text_color=999999&icon_color=1283c3c0" />
     <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frylo0&langs_count=6&hide=c%2B%2B,c,html,less,sass&exclude_repo=Pacman-AI&layout=compact&hide_border=true&theme=prussian&bg_color=00000000&title_color=1283c3&text_color=999999" />
     <img src="https://github-readme-streak-stats.herokuapp.com?user=frylo0&hide_border=true&theme=prussian&background=00000000&fire=1283c3&ring=1283c370&currStreakNum=999999&currStreakLabel=1283c3&dates=999999c0&sideNums=1283c3d0&sideLabels=999999ff" />
 </p>
