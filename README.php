@@ -10,12 +10,14 @@ require_once __DIR__ . '/templates/typing.php';
 require_once __DIR__ . '/templates/social.php';
 require_once __DIR__ . '/templates/tech.php';
 require_once __DIR__ . '/templates/commit-graph.php';
+require_once __DIR__ . '/templates/spacing.php';
 
 $theme = 'prussian';
 $login = 'frylo0';
 $email = 'frylo.d.ts@gmail.com';
 $website = 'frylo.org';
 $accent_color = '457ebf';
+$secondary_color = '';
 
 ?>
 
@@ -24,7 +26,7 @@ $accent_color = '457ebf';
 <a href="<?= $website ?>">
   <?php typing([
     'Hi, there I\'m Frylo 👋',
-    'Nice to meet you!',
+    'Nice to meet you! 😸',
     'I\'m Frontend Developer'
   ], $accent_color) ?>
 </a>
@@ -34,33 +36,27 @@ $accent_color = '457ebf';
 <br>
 
 <p align="center">
-  <h3 align="center">
-    Hi there, I'm <a href="<?= $website ?>" target="_blank" rel="noreferrer">Frylo</a> 👋
-  </h3>
+<h3 align="center">
+  Hi there, I'm <a href="<?= $website ?>" target="_blank" rel="noreferrer">Frylo</a> 👋
+</h3>
 
-  <h2 align="center">
-    I'm a Frontend Developer 💻!
-  </h2>
+<h2 align="center">
+  I'm a Frontend Developer 💻!
+</h2>
 
-  <?php start_minimize() ?>
-  <h5 align="center">
-    <?php social('website', 'frylo.org') ?>&nbsp;
-    <?php social('gmail', 'frylo.d.ts') ?>&nbsp;
-    <?php social('linkedin', 'frylo') ?>&nbsp;
-    <?php social('youtube', 'frylo0') ?>&nbsp;
-    <?php social('gitlab', 'frylo') ?>&nbsp;
-    <?php social('github', 'frylo0') ?>
-  </h5>
-  <?php end_minimize() ?>
+<?php start_minimize() ?>
+<h5 align="center">
+  <?php social('website', 'frylo.org') ?>&nbsp;
+  <?php social('gmail', 'frylo.d.ts') ?>&nbsp;
+  <?php social('linkedin', 'frylo') ?>&nbsp;
+  <?php social('youtube', 'frylo0') ?>&nbsp;
+  <?php social('gitlab', 'frylo') ?>&nbsp;
+  <?php social('github', 'frylo0') ?>
+</h5>
+<?php end_minimize() ?>
 </p>
 
-<hr>
-
-<br>
-<br>
-<br>
-<br>
-<br>
+<?php spacing() ?>
 
 <h2 align="center">🔭 I'm currently working on</h2>
 
@@ -72,11 +68,7 @@ $accent_color = '457ebf';
   Studying <?php tech('arduino') ?> Micro-controller
 </p>
 
-<hr>
-
-<br>
-<br>
-<br>
+<?php spacing() ?>
 
 <h2 align="center">🌱 I'm currently learning</h2>
 
@@ -88,14 +80,9 @@ $accent_color = '457ebf';
   3) <?php tech('docker') ?> Containers
 </p>
 
-<hr>
+<?php spacing() ?>
 
-<br>
-<br>
-<br>
-
-<h2 align="center">🔥 Languages & Frameworks & Tools & Abilities 🔥</h2>
-<br>
+<h2 align="center">🔥 Techs n Tools 🔥</h2>
 
 <?php start_minimize() ?>
 <p align="center">
@@ -159,29 +146,16 @@ $accent_color = '457ebf';
 </p>
 <?php end_minimize() ?>
 
-<hr>
+<?php spacing() ?>
 
-<br>
-<br>
-<br>
-
-
-<h2 align="center">⚡ Stats ⚡</h2>
-
-<br>
+<h2 align="center">Stats ⚡</h2>
 
 <?php stats($login) ?>
-
 <?php commit_graph($login, $accent_color) ?>
 
-<hr>
+<?php spacing() ?>
 
-<br>
-<br>
-<br>
-
-<h2 align="center">👨‍💻 Repositories 👨‍💻</h2>
-
+<h2 align="center">📜 Repos</h2>
 <p align="center">
 
   <?php repo($login, 'frylo.org', $accent_color) ?>
