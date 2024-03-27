@@ -16,8 +16,7 @@ $theme = 'prussian';
 $login = 'frylo0';
 $email = 'frylo.d.ts@gmail.com';
 $website = 'frylo.org';
-$accent_color = '457ebf';
-$secondary_color = '';
+$accent_color = '1283c3';
 
 ?>
 
@@ -150,7 +149,7 @@ $secondary_color = '';
 
 <h2 align="center">Stats ⚡</h2>
 
-<?php stats($login) ?>
+<?php stats($login, $accent_color) ?>
 <?php commit_graph($login, $accent_color) ?>
 
 <?php spacing() ?>

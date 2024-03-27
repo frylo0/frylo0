@@ -10,7 +10,7 @@
 
 <h1 align="center">
     <a href="https://git.io/typing-svg">
-        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+there+I%27m+Frylo+%F0%9F%91%8B;Nice+to+meet+you%21+%F0%9F%98%B8;I%27m+Frontend+Developer&center=true&size=30&color=457ebf&pause=1000">
+        <img src="https://readme-typing-svg.herokuapp.com/?lines=Hi%2C+there+I%27m+Frylo+%F0%9F%91%8B;Nice+to+meet+you%21+%F0%9F%98%B8;I%27m+Frontend+Developer&center=true&size=30&color=1283c3&pause=1000">
     </a>
 </h1>
 
@@ -102,13 +102,15 @@
 
     
 
+
+
 <p align="center">
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=frylo0&show_icons=true&count_private=true&theme=prussian&hide_border=true&hide=issues,contribs&bg_color=00000000">
-    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frylo0&layout=compact&hide_border=true&theme=prussian&bg_color=00000000&langs_count=6&hide=c%2b%2b,c,html,less&exclude_repo=Pacman-AI">
-    <img src="https://github-readme-streak-stats.herokuapp.com?user=frylo0&theme=prussian&hide_border=true&background=FFFFFF00">
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api?username=frylo0&count_private=true&hide=issues,contribs&show_icons=true&hide_border=true&theme=prussian&bg_color=00000000&title_color=1283c3&text_color=999999" />
+    <img height="50%" width="auto" src="https://github-readme-stats.vercel.app/api/top-langs/?username=frylo0&langs_count=6&hide=c%2B%2B,c,html,less,sass&exclude_repo=Pacman-AI&layout=compact&hide_border=true&theme=prussian&bg_color=00000000&title_color=1283c3&text_color=999999" />
+    <img src="https://github-readme-streak-stats.herokuapp.com?user=frylo0&hide_border=true&theme=prussian&background=00000000&fire=1283c3&ring=1283c370&currStreakNum=999999&currStreakLabel=1283c3&dates=999999a0&sideNums=1283c3b0&sideLabels=999999ff" />
 </p>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=frylo0&theme=xcode&point=457ebf&line=457ebf&hide_border=true&area=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=frylo0&hide_border=true&area=true&theme=xcode&point=1283c3&line=1283c3&bg_color=00000000&color=999999&title_color=1283c3" width="100%" />
 
 <hr>
 
@@ -120,7 +122,7 @@
 <h2 align="center">📜 Repos</h2>
 <p align="center">
 
-  <a href="https://github.com/frylo0/frylo.org" alt="Repo"> <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=frylo0&repo=frylo.org&bg_color=457ebf40&title_color=457ebf&text_color=ffffff&icon_color=457ebfc0&border_color=457ebf&hide_border=false&show_icons=true" alt="frylo.org" /> </a>  <a href="https://github.com/frylo0/pftp" alt="Repo"> <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=frylo0&repo=pftp&bg_color=457ebf40&title_color=457ebf&text_color=ffffff&icon_color=457ebfc0&border_color=457ebf&hide_border=false&show_icons=true" alt="pftp" /> </a>  <a href="https://github.com/frylo0/ts-package-starter" alt="Repo"> <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=frylo0&repo=ts-package-starter&bg_color=457ebf40&title_color=457ebf&text_color=ffffff&icon_color=457ebfc0&border_color=457ebf&hide_border=false&show_icons=true" alt="ts-package-starter" /> </a>  <a href="https://github.com/frylo0/nextjs-modern-starter-2024" alt="Repo"> <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=frylo0&repo=nextjs-modern-starter-2024&bg_color=457ebf40&title_color=457ebf&text_color=ffffff&icon_color=457ebfc0&border_color=457ebf&hide_border=false&show_icons=true" alt="nextjs-modern-starter-2024" /> </a>  <a href="https://github.com/frylo0/dtl" alt="Repo"> <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=frylo0&repo=dtl&bg_color=457ebf40&title_color=457ebf&text_color=ffffff&icon_color=457ebfc0&border_color=457ebf&hide_border=false&show_icons=true" alt="dtl" /> </a>  <a href="https://github.com/frylo0/jquery-reactive" alt="Repo"> <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=frylo0&repo=jquery-reactive&bg_color=457ebf40&title_color=457ebf&text_color=ffffff&icon_color=457ebfc0&border_color=457ebf&hide_border=false&show_icons=true" alt="jquery-reactive" /> </a></p>
+  <a href="https://github.com/frylo0/frylo.org" alt="Repo"> <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=frylo0&repo=frylo.org&bg_color=1283c340&title_color=1283c3&text_color=ffffff&icon_color=1283c3c0&border_color=1283c3&hide_border=false&show_icons=true" alt="frylo.org" /> </a>  <a href="https://github.com/frylo0/pftp" alt="Repo"> <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=frylo0&repo=pftp&bg_color=1283c340&title_color=1283c3&text_color=ffffff&icon_color=1283c3c0&border_color=1283c3&hide_border=false&show_icons=true" alt="pftp" /> </a>  <a href="https://github.com/frylo0/ts-package-starter" alt="Repo"> <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=frylo0&repo=ts-package-starter&bg_color=1283c340&title_color=1283c3&text_color=ffffff&icon_color=1283c3c0&border_color=1283c3&hide_border=false&show_icons=true" alt="ts-package-starter" /> </a>  <a href="https://github.com/frylo0/nextjs-modern-starter-2024" alt="Repo"> <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=frylo0&repo=nextjs-modern-starter-2024&bg_color=1283c340&title_color=1283c3&text_color=ffffff&icon_color=1283c3c0&border_color=1283c3&hide_border=false&show_icons=true" alt="nextjs-modern-starter-2024" /> </a>  <a href="https://github.com/frylo0/dtl" alt="Repo"> <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=frylo0&repo=dtl&bg_color=1283c340&title_color=1283c3&text_color=ffffff&icon_color=1283c3c0&border_color=1283c3&hide_border=false&show_icons=true" alt="dtl" /> </a>  <a href="https://github.com/frylo0/jquery-reactive" alt="Repo"> <img width="278" src="https://github-readme-stats.vercel.app/api/pin/?username=frylo0&repo=jquery-reactive&bg_color=1283c340&title_color=1283c3&text_color=ffffff&icon_color=1283c3c0&border_color=1283c3&hide_border=false&show_icons=true" alt="jquery-reactive" /> </a></p>
 
 <h4 align="center">
   <a href="https://github.com/frylo0?tab=repositories" title="Show Repositories">🔎 Show More 🔍</a>
