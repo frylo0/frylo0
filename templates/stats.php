@@ -35,7 +35,7 @@
         "&theme=$theme" . 
         "&background=00000000&fire={$accent_color}&ring={$accent_color}70" .
         "&currStreakNum=999999&currStreakLabel={$accent_color}" . 
-        "&dates=999999a0&sideNums={$accent_color}b0&sideLabels=999999ff";
+        "&dates=999999c0&sideNums={$accent_color}d0&sideLabels=999999ff";
 ?>
 
 <p align="center">
