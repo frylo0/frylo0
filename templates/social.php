@@ -13,8 +13,8 @@
         }
         elseif ($type === 'gmail') {
             $img = 'images/gmail.png';
-            $url = "$platform_username@gmail.com";
-            $title = 'GMail Account';
+            $url = "mailto:$platform_username@gmail.com";
+            $title = "$platform_username@gmail.com";
             $label = 'Gmail';
         }
         elseif ($type === 'linkedin') {
