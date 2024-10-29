@@ -45,7 +45,7 @@ $accent_color = '1283c3';
 
 <?php start_minimize() ?>
 <h5 align="center">
-  <?php social('website', 'frylo.org') ?>&nbsp;
+  <!--<?php social('website', 'frylo.org') ?>&nbsp;-->
   <?php social('gmail', 'frylo.d.ts') ?>&nbsp;
   <?php social('linkedin', 'frylo') ?>&nbsp;
   <?php social('youtube', 'frylo0') ?>&nbsp;
