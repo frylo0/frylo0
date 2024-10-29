@@ -22,14 +22,14 @@
 
 <p align="center">
 <h3 align="center">
-  Hi there, I'm <a href="frylo.org" target="_blank" rel="noreferrer">Frylo</a> 👋
+  Hi there, I'm <a href="https://frylo.org" target="_blank" rel="noreferrer">Frylo</a> 👋
 </h3>
 
 <h2 align="center">
   I'm a Frontend Developer 💻!
 </h2>
 
-<h5 align="center"> <code> <a href="https://frylo.org" title="Website"> <img width="22" src="images/website.svg"> frylo.org </a> </code> &nbsp; <code> <a href="mailto:frylo.d.ts@gmail.com" title="frylo.d.ts@gmail.com"> <img width="22" src="images/gmail.png"> Gmail </a> </code> &nbsp; <code> <a href="https://www.linkedin.com/in/frylo/" title="LinkedIn Profile"> <img width="22" src="images/linkedin.svg"> LinkedIn </a> </code> &nbsp; <code> <a href="https://www.youtube.com/@frylo0" title="YouTube Channel"> <img width="22" src="images/youtube.png"> YouTube </a> </code> &nbsp; <code> <a href="https://gitlab.com/frylo" title="GitLab Profile"> <img width="22" src="images/gitlab.png"> GitLab </a> </code> &nbsp; <code> <a href="https://github.com/frylo0" title="GitHub Profile"> <img width="22" src="images/github.png"> GutHub </a> </code> </h5></p>
+<h5 align="center"> <code> <a href="https://frylo.org" title="Website"> <img width="22" src="images/website.svg"> frylo.org </a> </code> &nbsp; <code> <a href="mailto:frylo.d.ts@gmail.com" title="frylo.d.ts@gmail.com"> <img width="22" src="images/gmail.png"> Gmail </a> </code> &nbsp; <code> <a href="https://www.linkedin.com/in/frylo/" title="LinkedIn Profile"> <img width="22" src="images/linkedin.svg"> LinkedIn </a> </code> &nbsp; <code> <a href="https://www.youtube.com/@frylo0" title="YouTube Channel"> <img width="22" src="images/youtube.png"> YouTube </a> </code> &nbsp; <code> <a href="https://gitlab.com/frylo" title="GitLab Profile"> <img width="22" src="images/gitlab.png"> GitLab </a> </code> &nbsp; <code> <a href="https://github.com/frylo0" title="GitHub Profile"> <img width="22" src="images/github.png"> GitHub </a> </code> </h5></p>
 
 
 <hr>

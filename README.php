@@ -36,7 +36,7 @@ $accent_color = '1283c3';
 
 <p align="center">
 <h3 align="center">
-  Hi there, I'm <a href="<?= $website ?>" target="_blank" rel="noreferrer">Frylo</a> 👋
+  Hi there, I'm <a href="https://<?= $website ?>" target="_blank" rel="noreferrer">Frylo</a> 👋
 </h3>
 
 <h2 align="center">

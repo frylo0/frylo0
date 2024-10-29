@@ -33,7 +33,7 @@
             $img = 'images/github.png';
             $url = "https://github.com/$platform_username";
             $title = 'GitHub Profile';
-            $label = 'GutHub';
+            $label = 'GitHub';
         }
         elseif ($type === 'youtube') {
             $img = 'images/youtube.png';
